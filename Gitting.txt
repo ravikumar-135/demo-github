@@ -1,0 +1,29 @@
+Gitting
+installed GitHub desktop and GitBash
+first created a new repository
+step 1:then opened the GitHub desktop and cloned the repository
+when cloning give an empty file/folder as path 
+step 2: opened the path folder(file explorer) that is cloned 
+step 3: in that folder you can change , add files, create files 
+step 4: now come to the GitHub desktop and you can see it here updated now you can give a little summary or description
+step 5: "commit to main" then push origin
+step 6: now go the web and open the repository you want to change/update 
+step 7: pull request -> new pull request -> create pull request add summary ->create pull request 
+sync fork in that compare base should be ashish and head should be mine.
+substep : the owner(main repository) will check and accept the "Pull request successfully merged and closed"
+
+
+GitBash
+Create a new folder in the file exploer
+add a new file or create a new file
+now go to the your GitHub account and create a new repository
+in that you will get set of commands follow them in order.
+git init
+git add .
+git commit -m "here add a commenting commit"
+git branch -M main 
+git remote add origin https:/yourrepository address.git
+git push -u origin main (main branch)
+now go and refresh your website page and in that the files get added
+git status 
+git pull
